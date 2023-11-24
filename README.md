@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Projeto Climatempo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi desenvolvido com o <a href="https://github.com/devemdobro">Dev em Dobro</a> no dia 22/11/2023 com o objetivo de fazer um projeto 'amigavél' as pessoas que nunca tiveram contato com programação WEB (HTML, CSS e JS).
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+<img src="./docs/">
 
 ### `npm start`
 
