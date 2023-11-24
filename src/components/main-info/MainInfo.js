@@ -10,7 +10,7 @@ const MainInfo = () => {
         <div className='main-info'>
             <h1>{cidade? cidade : "Use a  lupa acima para ver o clima em uma cidade"}</h1>
 
-            <p className="temperatura">{temperatura}</p>
+            <p className="temperatura">{temperatura? `${temperatura}°C` : ''}</p>
 
             <img src={iconeCondicao? iconeCondicao : `https://cdn.weatherapi.com/weather/64x64/day/116.png`} alt="ícone condição do clima" /> 
 
