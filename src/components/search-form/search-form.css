@@ -1,0 +1,33 @@
+.busca {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.busca input {
+    background-color: #0a1435;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.busca .btn-busca {
+    background-color: #0a1435;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+    opacity: 0.8;
+}
+
+.busca .lupa {
+    width: 30px;
+    padding: 6px;
+    opacity: 0.8;
+}
